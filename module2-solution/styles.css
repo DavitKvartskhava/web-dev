@@ -4,17 +4,17 @@
 }
 
 h1 {
-	margin-left: auto;
-	margin-right: auto;
 	margin-bottom: 50px;
-	margin-top: 20px;
+	margin-top: 50px;
 	text-align: center;
 }
+
 h2 {
 	width: 150px;
+	padding: 3px 0px 3px 0px;
 	text-align: center;
-	/*padding: 2px 25px 2px 25px;*/
-	border: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	float: right;
@@ -23,8 +23,8 @@ h2 {
 	right: 0px;
 }
 p {
-	margin-top: 35px;
-	padding: 0px 10px 0px 10px;
+	margin-top: 40px;
+	padding: 0px 15px 0px 15px;
 }
 
 #chicken_title{
@@ -47,7 +47,6 @@ p {
 	position: relative;
 	border: 1px solid black;
 	background-color: gray;
-	/*margin-bottom: 20px;*/
 	margin: 15px;
 }
 /********** Laptop **********/
