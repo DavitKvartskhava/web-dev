@@ -1,0 +1,32 @@
+.navbar-brand h1 {
+	color: #fff;
+	line-height:0.6;
+	margin-top:0px;
+}
+.navbar {
+	background-color: #796f6f;
+}
+.navbar-toggle {
+	background-color: #cac3c3;
+}
+
+#dropdown-menu{
+	background-color: #cac3c3;
+	width:100%;
+}
+#dropdown-menu li {
+	text-align: center;
+	font-size: 1.4em;
+	border-bottom: 2px solid;
+}
+/*#dropdown-menu li */
+#dropdown-menu ul {
+	margin-top:0;
+	margin-bottom: 0;
+}
+
+#tall-section {
+	background-color: #e2dfdf;
+	padding: 10px 10px 10px;
+	height: 10000px;
+}
