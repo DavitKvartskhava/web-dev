@@ -9,6 +9,10 @@
 .navbar-toggle {
 	background-color: #cac3c3;
 }
+.row {
+	margin-left: auto;
+	margin-right: auto;
+}
 
 #dropdown-menu{
 	background-color: #cac3c3;
